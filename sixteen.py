@@ -1,4 +1,5 @@
 n,q=input().split()
+
 n=int(n)
 q=int(q)
 list=[]
